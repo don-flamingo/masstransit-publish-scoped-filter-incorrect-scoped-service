@@ -1,0 +1,11 @@
+
+.DS_Store
+.idea/.idea.MassTransit.ScopePublishFilter/.idea/
+
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+MassTransit.ScopePublishFilter.sln.DotSettings.user
